@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" alt="OceanSweep" src="https://github.com/user-attachments/assets/38a391b2-96ff-44e4-9566-8fd6f7cec372" />
+  <img width="250" height="250" alt="OceanSweep" src="https://github.com/user-attachments/assets/ab1773c2-4369-44ee-b33b-d5993112c1f4" />
 </p>
 
 # OceanSweep
@@ -50,4 +50,5 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 6. Navigate to ```http://localhost:3000``` in your web browser while the project is running to access the website.
 
 ## Example
-<img width="1920" height="919" alt="example" src="https://github.com/user-attachments/assets/7bb588d1-c1fd-448c-be5d-e7122900258a" />
+<img width="1920" height="912" alt="example usage" src="https://github.com/user-attachments/assets/bba81d04-4c9c-4055-8441-4124823b65d3" />
+
