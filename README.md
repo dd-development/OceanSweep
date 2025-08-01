@@ -49,6 +49,15 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 5. To start the project, run ```npm run dev``` in the project directory.
 6. Navigate to ```http://localhost:3000``` in your web browser while the project is running to access the website.
 
-## Example
-<img width="1920" height="912" alt="example usage" src="https://github.com/user-attachments/assets/bba81d04-4c9c-4055-8441-4124823b65d3" />
+## Examples
+<img width="1920" height="912" alt="example 1" src="https://github.com/user-attachments/assets/1a53ace3-f808-47f2-b74d-faafcfa382a7" />
 
+<img width="1920" height="912" alt="example 2" src="https://github.com/user-attachments/assets/bba81d04-4c9c-4055-8441-4124823b65d3" />
+
+<img width="1920" height="916" alt="example 3" src="https://github.com/user-attachments/assets/7b8b1c16-5133-44ef-9999-4300a2744504" />
+
+<img width="1920" height="918" alt="example 4" src="https://github.com/user-attachments/assets/e63e10e5-50bd-4b46-af7f-dfe1e59fa979" />
+
+<img width="1920" height="916" alt="example 5" src="https://github.com/user-attachments/assets/9b03f1e7-35d5-47c8-a8b6-4945b70b0609" />
+
+<img width="1920" height="919" alt="example 6" src="https://github.com/user-attachments/assets/005006a5-eb3c-485e-afc2-8f16ce3b4e4e" />
