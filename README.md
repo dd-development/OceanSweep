@@ -19,7 +19,7 @@ Community platform for organizing and volunteering for local waterfront cleanup 
   - **Hristian Tountchev:** Project set-up, signup/login, dashboard page, about page, database design/testing, documentation
 
 Each sprint was 1 week. We had daily Scrum meetings to discuss development progress and direction for specific objectives while forumlating plans for future sprints. We also incorporated techniques such as pair
-programming and continuous integration/testing into our development cycle.
+programming and continuous integration/testing into our development cycle. We made any changes/additions on separate branches, created pull requests, and received code reviews from other group members prior to any merges to the main branch. This ensured all code was functional and the team was on the same page throughout the development process.
 
 ## Design and Usage
 ***YOU WILL NEED A .ENV FILE WITH YOUR OWN VALID API KEYS IN ORDER TO RUN THIS PROJECT, FILL IN AND SAVE THE EXAMPLE BELOW TO YOUR PROJECT DIRECTORY:***
