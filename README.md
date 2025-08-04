@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" alt="OceanSweep" src="https://github.com/user-attachments/assets/ab1773c2-4369-44ee-b33b-d5993112c1f4" />
+  <img width="250" height="250" alt="OceanSweep" src="https://github.com/user-attachments/assets/6492d28b-3db4-47d3-8bac-0591c9e6f6ea" />
 </p>
 
 # OceanSweep
@@ -50,14 +50,14 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 6. Navigate to ```http://localhost:3000``` in your web browser while the project is running to access the website.
 
 ## Examples
-<img width="1920" height="912" alt="example 1" src="https://github.com/user-attachments/assets/1a53ace3-f808-47f2-b74d-faafcfa382a7" />
+<img width="1920" height="912" alt="example 1" src="https://github.com/user-attachments/assets/78bc87c2-77ef-464e-a042-6a74dbac7555" />
 
-<img width="1920" height="912" alt="example 2" src="https://github.com/user-attachments/assets/bba81d04-4c9c-4055-8441-4124823b65d3" />
+<img width="1920" height="912" alt="example 2" src="https://github.com/user-attachments/assets/2b2838de-aaf9-4700-9b6d-e0cab4937ab5" />
 
-<img width="1920" height="916" alt="example 3" src="https://github.com/user-attachments/assets/7b8b1c16-5133-44ef-9999-4300a2744504" />
+<img width="1920" height="916" alt="example 3" src="https://github.com/user-attachments/assets/59474238-3e05-4b63-b7e3-5cbbfbdb9e0c" />
 
-<img width="1920" height="918" alt="example 4" src="https://github.com/user-attachments/assets/e63e10e5-50bd-4b46-af7f-dfe1e59fa979" />
+<img width="1920" height="918" alt="example 4" src="https://github.com/user-attachments/assets/02f25687-7877-4b0a-a738-e1e7482079b4" />
 
-<img width="1920" height="916" alt="example 5" src="https://github.com/user-attachments/assets/9b03f1e7-35d5-47c8-a8b6-4945b70b0609" />
+<img width="1920" height="916" alt="example 5" src="https://github.com/user-attachments/assets/d9fb0fdd-0a06-49d5-ac4a-40f2b4f3b3e7" />
 
-<img width="1920" height="919" alt="example 6" src="https://github.com/user-attachments/assets/005006a5-eb3c-485e-afc2-8f16ce3b4e4e" />
+<img width="1920" height="919" alt="example 6" src="https://github.com/user-attachments/assets/f70fee30-8f8d-46e8-838d-5fae44541442" />
