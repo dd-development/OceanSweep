@@ -5,6 +5,9 @@
 # OceanSweep
 Community platform for organizing and volunteering for local waterfront cleanup and fundraising events. Built using Next.js + React, Tailwind CSS, TypeScript, and PostgreSQL with Prisma.
 
+## DEMO VIDEO
+https://www.youtube.com/watch?v=SWAJxBK2eas
+
 ## Overview and Credits
 *OceanSweep* was designed and developed over the course of 15 weeks with a team of 4 people utilizing the Scrum Agile framework and Jira:
 
